@@ -1,9 +1,6 @@
 <h1 align="center">
   ⚡ KYZO SAN ⚡  
 </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FF5C58&center=true&vCenter=true&width=600&lines=🚀+Digital+Engineer+%7C+Bot+Mastermind;💻+Fullstack+Dev+%7C+ESP32+Builder;🎯+Bikin+yang+berguna+%2C+bukan+cuma+yang+pamer" alt="Typing intro" />
-</p>
 
 ---
 
