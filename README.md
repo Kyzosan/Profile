@@ -75,10 +75,10 @@ Tools:
   <a href="https://t.me/kyzosan">
     <img src="https://img.shields.io/badge/Telegram-KyzoSan-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://kyzo-store.vercel.app">
+  <a href="https://google.com">
     <img src="https://img.shields.io/badge/Visit+My+Store-Kyzo+Digital-black?style=for-the-badge&logo=vercel"/>
   </a>
-  <a href="https://github.com/xkyzo1">
+  <a href="https://github.com/Kyzosan">
     <img src="https://img.shields.io/badge/GitHub-xkyzo1-333?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -86,6 +86,4 @@ Tools:
 
 <p align="center">
   <i>"Gue nggak ngejar jadi terkenal. Gue ngejar bikin karya yang dipakai banyak orang." – Kyzo San</i>
-</p><p align="center">
-  <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="300"/>
 </p>
